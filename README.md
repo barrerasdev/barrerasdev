@@ -2,4 +2,4 @@
 - 👀 I’m interested in the gym, programming, and reading.
 - 🌱 I’m currently mastering Java!
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I love Jesus Christ
+- ⚡ Fun fact: I love Jesus 🙏🏻 
