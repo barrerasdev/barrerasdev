@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barrerasdev also known as JD
 - 👀 I’m interested in the gym, programming, and reading.
 - 🌱 I’m currently mastering Java!
-- - 😄 Pronouns: Him
+- 😄 Pronouns: Him
 - ⚡ Fun fact: I love Jesus Christ
