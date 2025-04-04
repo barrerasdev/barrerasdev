@@ -1,6 +1,6 @@
 # 👋 Hey, I'm JD Barreras
 
-I'm a Computer Science student at **California State University, Los Angeles**, on a mission to become a skilled software engineer with strong roots in discipline, purpose, and code.
+I'm a Computer Science student at **California State University, Los Angeles**, on a mission to become a skilled software engineer with strong roots in discipline, purpose, and development.
 
 ---
 
