@@ -1,6 +1,6 @@
 # 👋 Hey, I'm JD Barreras
 
-I'm a Computer Science student at **California State University, Los Angeles**, on a mission to become a skilled software engineer with strong roots in discipline, purpose, and development.
+I'm a Computer Science student at **California State University, Los Angeles**, on a mission to become a skilled software engineer with strong roots in discipline, purpose, and faith.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a Computer Science student at **California State University, Los Angeles**, 
 - 💻 Currently learning: **Java**, **Spring Boot**, and **API integration**.
 - 🧠 Solving one LeetCode problem a day + building Java projects.
 - 📖 Sharing my course archives to help fellow CSULA students succeed.
-- ☕️ Rebuilding my routine around growth, Christ, and consistency.
+- ☕️ Building around growth, consistency, and innovation.
 
 ---
 
@@ -32,9 +32,6 @@ Making knowledge free & accessible:
 - 📘 [CS1222 - Database Systems](https://github.com/barrerasdev/CSULA-CS-1222-Course-Archive)
 - 🧱 [CS2012 - Programming II (OOP)](https://github.com/barrerasdev/CSULA-CS-2012-Course-Archive)
 - 🧑‍💻 [CS2011 - Programming I](https://github.com/barrerasdev/CSULA-CS-2011-Course-Archive)
-
-### 🌐 Freelance Sites
-Built and deployed websites for a hairstylist and influencer using HTML/CSS/JS. Designed with responsiveness and personal branding in mind.
 
 ---
 
